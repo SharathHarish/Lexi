@@ -1,0 +1,31 @@
+# --------------------
+# Python
+# --------------------
+backend/venv/
+backend/__pycache__/
+*.pyc
+
+# --------------------
+# Node / Next.js
+# --------------------
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# --------------------
+# Environment files
+# --------------------
+.env
+.env.local
+
+# --------------------
+# OS / Editor
+# --------------------
+.DS_Store
+Thumbs.db
+.vscode/
+
+# --------------------
+# Database (optional)
+# --------------------
+backend/*.db
