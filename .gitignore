@@ -8,9 +8,9 @@ backend/__pycache__/
 # --------------------
 # Node / Next.js
 # --------------------
-frontend/node_modules/
-frontend/.next/
-frontend/out/
+frontend/lexi/node_modules/
+frontend/lexi/.next/
+frontend/lexi/out/
 
 # --------------------
 # Environment files
